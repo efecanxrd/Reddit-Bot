@@ -1,0 +1,13 @@
+{
+    "token":"MTAwMTUyODYxNjU4MjEyNzY3Ng.XXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "prefix":"!",
+    "botOwner": "843905719358980117",
+    "subredditName": "AskReddit",
+    "serverID": "980165088080171060",
+    "commentLogChannelID": "1001791828200267796",
+    "threadLogChannelID": "1001534447285452892",
+    "embedColor": "000000",
+    "commentCheckDelay": 1.5,
+    "threadCheckDelay": 1.5,
+    "ignoreCommandFooter": "Reddit Feed"
+}
