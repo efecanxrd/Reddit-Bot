@@ -1,5 +1,5 @@
 <h2> Reddit Bot </h2>
-<h3> RXe </h3>
+<h3> A discord bot that can log threads and comments from a subreddit. Written with NodeJS </h3>
 <img src="https://i.imgur.com/qHAcfhX.gif">
 <h3> Setup The Project </h3>
 <h4><img align="center" src="https://raw.githubusercontent.com/efecanxrd/efecanxrd/main/images/xe.gif" width="30"> Install NodeJS <h4>
